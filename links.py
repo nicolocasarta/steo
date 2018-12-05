@@ -1,6 +1,9 @@
+'''
+Goal: To create a package that will allow download of EIA STEO data sets. 
+'''
+
 import calendar
 import datetime
-
 
 # Creating a list of abbr months
 
